@@ -1,6 +1,6 @@
-# RabbitMQ Publish/Subscribe Queue
+# RabbitMQ RPC Queue
 
-PHP simplest study on RabbitMQ routing queues, with a basic UI for emitting logs. 
+PHP simplest study on RabbitMQ RPC queues, with a basic UI for receiving results. 
 
 ## How to run
 
