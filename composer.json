@@ -1,11 +1,11 @@
 {
     "name": "emrodrigues77/rabbitmq-queue-hello-world",
-    "description": "PHP study with RabbitMQ",
+    "description": "PHP simplest study on RabbitMQ RPC queues, with a basic UI for receiving results.",
     "type": "project",
     "authors": [
         {
             "name": "Eduardo Rodrigues",
-            "email": "eduardo.rodrigues@objective.com.br"
+            "email": "eduardo@eduardo.rodrigues.nom.br"
         }
     ],
     "require": {
